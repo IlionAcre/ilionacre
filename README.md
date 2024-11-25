@@ -1,6 +1,6 @@
 # 👋 Hello, World! 
 
-I'm [Fabian], a creative python dev and data analyst with heavy math background.
+I'm Fabian, a creative python dev and data analyst with heavy math background.
 
 ---
 

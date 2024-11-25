@@ -59,7 +59,7 @@ I'm [Fabian], a creative python dev and data analyst with heavy math background.
 ## 🌐 Let's Connect!
 
 - [My personal page](https://falcontreras.com)
-- [X/twitter](https://x.com/falcon_treras))
+- [X/twitter](https://x.com/falcon_treras)
 - business@falcontreras.com
 
 ---

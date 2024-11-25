@@ -14,11 +14,11 @@ I'm Fabian, a creative python dev and data analyst with business and heavy math 
 
 ## 🚧 Projects
 
-- **[Marketmood](https://markedmoot.falcontreras.com):** A stocks dashboard including data sentiment from news and reddit. **[Here's and repo](https://github.com/IlionAcre/trend_analyzer).**
-- **[NutrAItionist](https://nutraitionist-img-394760298091.us-central1.run.app):** An AI powered nutritionist advisor. **[Here's and repo](https://github.com/IlionAcre/nutritionist).**
-- **[Healthcare prediction](https://projects.falcontreras.com/healthcare_regression.html):** A notebook to showcase my ML process. **[Here's and repo](https://github.com/IlionAcre/healthcare-regression).**
-- **[Glassboard](https://glassboard.falcontreras.com/):** A dashboard of glassdoor scrapped data analysis jobs. **[Here's and repo]([https://github.com/IlionAcre/glassdor-analysis](https://github.com/IlionAcre/glassdor-analysis)).**
-- **[Portfolio](https://falcontreras.com)** My portfolio webpage. **[Here's and repo](https://github.com/IlionAcre/Portfolio-WebPage.**
+- **[Marketmood](https://markedmoot.falcontreras.com):** A stocks dashboard including data sentiment from news and reddit. **[And here's the repo](https://github.com/IlionAcre/trend_analyzer).**
+- **[NutrAItionist](https://nutraitionist-img-394760298091.us-central1.run.app):** An AI powered nutritionist advisor. **[And here's the repo](https://github.com/IlionAcre/nutritionist).**
+- **[Healthcare prediction](https://projects.falcontreras.com/healthcare_regression.html):** A notebook to showcase my ML process. **[And here's the repo](https://github.com/IlionAcre/healthcare-regression).**
+- **[Glassboard](https://glassboard.falcontreras.com/):** A dashboard of glassdoor scrapped data analysis jobs. **[And here's the repo](https://github.com/IlionAcre/glassdor-analysis).**
+- **[Portfolio](https://falcontreras.com)** My portfolio webpage. **[In case you were wondering, here's the repo](https://github.com/IlionAcre/Portfolio-WebPage.).**
 
 ---
 

@@ -8,7 +8,7 @@ I'm Fabian, a creative python dev and data analyst with business and heavy math 
 
 - 💻 Passionate about **strategy games, sports and music!**
 - 🌱 Currently learning **deep learning**.
-- 🔭 I’m currently working on **[a python library for lyrics scrapping](https://github.com/IlionAcre/lyrics_scrapper)**.
+- 🔭 I’m currently working on **[Django/Reach SaaS for seamless agent creation/training.]**.
 
 ---
 

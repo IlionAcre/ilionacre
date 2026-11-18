@@ -10,7 +10,7 @@ Open to full-time, contract and freelance work, remote or on-site. Portfolio and
 
 - **[Culprit](https://github.com/IlionAcre/culprit)**: finds the step that broke an AI-agent run. 36.9% precision on the TRAIL benchmark against a 2.7% baseline, at about $0.005 per diagnosis.
 - **[Litmus](https://github.com/IlionAcre/litmus)**: statistical regression checks for LLM prompts and models (McNemar plus paired bootstrap), run as a CI gate before a change merges.
-- **[Frontdesk](https://github.com/IlionAcre/frontdesk)**: multimodal AI receptionist for home-services businesses. Phone and WhatsApp intake, photo triage and guarded bookings, with golden eval scenarios in CI.
+- **Frontdesk** (product in development, private): multimodal AI receptionist for home-services businesses. Phone and WhatsApp intake, photo triage and guarded bookings, with golden eval scenarios in CI. Case study on [falcontreras.com](https://falcontreras.com).
 - **[GMaps Leads](https://github.com/IlionAcre/gmaps_leads)**: collects Google Local Services listings into typed lead records, with a Streamlit dashboard and exports.
 
 ## Stack
